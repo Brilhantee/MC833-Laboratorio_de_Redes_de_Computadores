@@ -2,7 +2,7 @@
 Os projetos foram desenvolvidos pela a minha equipe durante a diciplina MC833 em 2023, nos quais foi colocado em prática os conhecimento adquiridos este curso curso.
 O principal foco, em ambos projetos, foi a comunicação cliente-servidor através de sockets. Foi implementada oito operações que o cliente pode exigir do servidor, como:
 
-cadastrar um novo perfil utilizando o email como identificador;
+cadastrar um novo perfil utilizando o email como identificador; 
 listar todas as pessoas (email e nome) formadas em um determinado curso;
 
 listar todas as pessoas (email e nome) que possuam uma determinada habilidade;
