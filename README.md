@@ -1,4 +1,4 @@
-# MC883-Redes_de_Computadores
+# MC883-Laboratorio_de_Redes_de_Computadores
 Os projetos foram desenvolvidos pela a minha equipe durante a diciplina MC833 em 2023, nos quais foi colocado em prática os conhecimento adquiridos este curso curso.
 O principal foco, em ambos projetos, foi a comunicação cliente-servidor através de sockets. Foi implementada oito operações que o cliente pode exigir do servidor, como:
 
