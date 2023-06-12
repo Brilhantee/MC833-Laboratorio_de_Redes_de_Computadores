@@ -1,4 +1,4 @@
-# MC883-Laboratorio_de_Redes_de_Computadores
+# MC883-Laboratorio de Redes de Computadores
 Os projetos foram desenvolvidos pela minha equipe durante a disciplina MC833 em 2023, com o objetivo de colocar em prática os conhecimentos adquiridos ao longo do curso. Ambos os projetos se concentraram na comunicação cliente-servidor por meio de sockets. Foram implementadas oito operações que o cliente pode solicitar ao servidor, incluindo:
 
 * Cadastro de um novo perfil usando o e-mail como identificador.
