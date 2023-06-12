@@ -11,4 +11,5 @@ O principal foco, em ambos projetos, foi a comunicação cliente-servidor atrav�
 * Remover um perfil a partir de seu identificador (email);
 * Fazer o download da imagem de um perfil a partir de seu identificador (somente no projeto
 2, com UDP).
+
 O projeto 1, é um servidor TCP paralelo que pode se comunicar com varios clientes ao mesmo tempo, enquanto o projeto 2, é um servidor UDP interativo que se comunica com um cliente de cada vez.
