@@ -5,17 +5,10 @@ O principal foco, em ambos projetos, foi a comunicação cliente-servidor atrav�
 * Cadastrar um novo perfil utilizando o email como identificador; 
 * Listar todas as pessoas (email e nome) formadas em um determinado curso;
 * Listar todas as pessoas (email e nome) que possuam uma determinada habilidade;
-
-listar todas as pessoas (email, nome e curso) formadas em um determinado ano;
-
-listar todas as informações de todos os perfis;
-
-dado o email de um perfil, retornar suas informações;
-
-remover um perfil a partir de seu identificador (email);
-
-fazer o download da imagem de um perfil a partir de seu identificador (somente no projeto
+* Listar todas as pessoas (email, nome e curso) formadas em um determinado ano;
+* Listar todas as informações de todos os perfis;
+* Dado o email de um perfil, retornar suas informações;
+* Remover um perfil a partir de seu identificador (email);
+* Fazer o download da imagem de um perfil a partir de seu identificador (somente no projeto
 2, com UDP).
-
-* No projeto 1, é um servidor TCP paralelo que se comunica com varios clientes ao mesmo tempo.
-* No projeto 2, é um servidor UDP interativo que se comunica com um cliente de cada vez.
+O projeto 1, é um servidor TCP paralelo que pode se comunicar com varios clientes ao mesmo tempo, enquanto o projeto 2, é um servidor UDP interativo que se comunica com um cliente de cada vez.
