@@ -5,11 +5,17 @@ O principal foco, em ambos projetos, foi a comunicação cliente-servidor atrav�
 cadastrar um novo perfil utilizando o email como identificador;
 
 listar todas as pessoas (email e nome) formadas em um determinado curso;
+
 listar todas as pessoas (email e nome) que possuam uma determinada habilidade;
+
 listar todas as pessoas (email, nome e curso) formadas em um determinado ano;
+
 listar todas as informações de todos os perfis;
+
 dado o email de um perfil, retornar suas informações;
+
 remover um perfil a partir de seu identificador (email);
+
 fazer o download da imagem de um perfil a partir de seu identificador (somente no projeto
 2, com UDP).
 
